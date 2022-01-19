@@ -4,13 +4,13 @@ import typing
 import datetime
 
 try:
-    with open("D:/IUT/IUT Semestre 1/SAE15/sae15.txt", encoding="utf8") as fh:
+    with open("C:/Users/tommo/Documents/GitHub/ProjetSAE15/sae15.txt", encoding="utf8") as fh:
         res=fh.read()
 except:
         print("Le fichier n'existe pas %s", os.path.abspath("--"))
 ress=res.split('\n')
 tableau_evenements=np.array([])
-fic=open("D:/IUT/IUT Semestre 1/SAE15/test.csv","w")
+fic=open("C:/Users/tommo/Documents/GitHub/ProjetSAE15/test.csv","w")
 test = 1
 nbrtrame = 0
 evenement="Heure ; Envoyeur ; Port ; Destinataire ; Flag ; Seq ; Ack ; Win ; Options ; Length"
