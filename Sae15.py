@@ -17,7 +17,7 @@ evenement="Heure ; Envoyeur ; Port ; Destinataire ; Flag ; Seq ; Ack ; Win ; Opt
 characters = ":"
 while test == 1:
     for event in ress:
-        if event.startswith('1') and test == 1 :
+        if not event.startswith('	') and test == 1 :
             if event.startswith('11:42:55.536521'):
                 nbrtrame = nbrtrame +1
                 test=0
@@ -35,7 +35,7 @@ while test == 1:
             #Ajout heure
             texte = event.split(' ')
             heure = texte[0]
-            #Ip
+            #Expediteur
             testip1=texte[2].split(".")
             if len(testip1) > 1 :
                 if len(testip1)==2:
@@ -62,6 +62,7 @@ while test == 1:
             else :
                 expediteur=texte[2]
                 port = ''
+            #Destination
             destination = texte[4]
             destination = destination.replace(characters,"")
             #Flag
