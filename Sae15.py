@@ -28,6 +28,7 @@ for event in ress:
         seq = ''
         ack=''
         win=''
+        flag = ''
         option = ''
         length = ''
         testip1 = ''
