@@ -11,13 +11,20 @@ except:
 ress=res.split('\n')
 tableau_evenements=np.array([])
 fic=open("C:/Users/tommo/Documents/GitHub/ProjetSAE15/test.csv","w")
-test = 1
+test = 0
 nbrtrame = 0
 evenement="Heure ; Envoyeur ; Port ; Destinataire ; Flag ; Seq ; Ack ; Win ; Options ; Length"
 fic.write(evenement + "\n")
 characters = ":"
 for event in ress:
-    if event.startswith('1') :
+    #Vérification bonne ligne
+    texte = event.split(":")
+    if len(texte) > 2:
+        test = 1
+    else :
+        test = 0
+    #Trie de la ligne contenant les infos sur la trame
+    if test == 1 :
         seq = ''
         ack=''
         win=''
