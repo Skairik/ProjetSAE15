@@ -41,16 +41,16 @@ for event in ress:
         #Expediteur
         testip1=texte[2].split(".")
         if len(testip1) > 1 :
-            if len(testip1)==2:
+            if len(testip1) == 2:
                 expediteur=testip1[0]
                 port = testip1[1]
-            if len(testip1)==3:
+            if len(testip1) == 3:
                 expediteur=testip1[0] +'.' + testip1[1]
                 port = testip1[2]
-            if len(testip1)==4:
+            if len(testip1) == 4:
                 expediteur=testip1[0] +'.' + testip1[1] +'.' + testip1[2]
                 port = testip1[3]
-            if len(testip1)==5:
+            if len(testip1) == 5:
                 expediteur=testip1[0] +'.' + testip1[1] +'.' + testip1[2] +'.' + testip1[3]
                 port = testip1[4]
             if len(testip1) == 6 :
