@@ -1,0 +1,49 @@
+[14:11] RICHARD Pierre Olivier
+
+InputObject SideIndicator
+----------- -------------
+CN=Agenda R&D,OU=Shared Mailboxes,DC=nigay,DC=priv ==
+CN=RICHARD Pierre-Olivier,OU=Bureau Informatique,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=COMBARMOND Anne-laure,OU=Bureau Administratif et Financier,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=ARNAUD Sébastien,OU=Bureau Travaux Neufs,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=kiosque1,OU=Salle de pause,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=POUZOLS Aurélie,OU=Bureau Administratif et Financier,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=STUMPP Virginie,OU=Bureau Commercial France,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=BELIARD Philippe,OU=Hangar Expedition,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=RECEPTION,OU=Compte generique,OU=Hangar Reception,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=COOPER Samantha,OU=Bureau Commercial Export,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=GOURE Julien,OU=Bureau Hygiène,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=BERNE Camille,OU=Bureau Communication,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=AVOT Thomas,OU=Nigay HDF,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=VIAL Sylvian,OU=Bureau Production Liquide,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=SOUVIGNET Eric,OU=Bureau Production Liquide,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=BERCET Jérémy,OU=Bureau Eclats,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=ARCIS Guy,OU=Bureau Maintenance,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=KOHLER Styven,OU=Bureau Eclats,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=BEAURAIN Jessy,OU=Nigay HDF,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=POULLY Maryline,OU=Bureau Commercial France,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=AUREGGI Laurent,OU=Nigay HDF,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=MAKAYA Baudri,OU=Bureau Production Liquide,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=CADAU Marie Claire,OU=Bureau Hygiène,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=BERERD Magdalena,OU=Bureau Eclats,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=CROUZET Stephane,OU=Bureau Hygiène,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=POUILLY Andre,OU=Bureau Hygiène,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=TOURET Teddy,OU=Nigay HDF,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=LINO Ludovic,OU=Bureau Communication,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=BIGNET Vincent,OU=Nigay HDF,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=MAISONHAUTE Marine,OU=Bureau Informatique,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=Appro1,OU=Conditionnement Atelier 2,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=CAILLOT Gwendoline,OU=Bureau Production Liquide,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=Aff Maintenance,OU=Compte generique,OU=Bureau Maintenance,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=BESSON Nicolas,OU=Bureau Informatique,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=ALIRAND Morgane,OU=Bureau Administratif et Financier,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=ALLOING Philippe,OU=Bureau Commercial Export,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=NIGAY Vincent,OU=Bureau Commercial Export,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=GAJA Marie Emilie,OU=Bureau Eclats,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=BROSSY Monique,OU=Bureau Administratif et Financier,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=CHAMFRAY Bérengere,OU=Bureau Administratif et Financier,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=KRISTIDES Audrey,OU=Bureau Administratif et Financier,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=FONTANIERE Chrystelle,OU=Bureau Administratif et Financier,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=MOREL Joelle,OU=Bureau Administratif et Financier,OU=Nigay Users,DC=nigay,DC=priv ==
+CN=FAYOLLE Philippe,OU=Bureau Production Liquide,OU=Nigay Users,DC=nigay,DC=priv ==
+
